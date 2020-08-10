@@ -18,3 +18,7 @@
 | 8일차 | 8/19 | . |
 | 9일차 | 8/20 | . |
 | 10일차 | 8/21 | 테스트 |
+
+### 수업 자료
+* 개념 설명 슬라이드: 없음
+* 연습 문제 목록/풀이 슬라이드: [/2020-Summer/ppt](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer/ppt)
