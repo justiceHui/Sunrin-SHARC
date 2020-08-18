@@ -15,10 +15,11 @@
 | 5일차 | 8/14 | 동적 계획법 |
 | 6일차 | 8/17 | 기출 문제 풀이 |
 | 7일차 | 8/18 | 기출 문제 풀이 |
-| 8일차 | 8/19 | . |
+| 8일차 | 8/19 | 하계 이론 |
 | 9일차 | 8/20 | . |
 | 10일차 | 8/21 | 테스트 |
 
 ### 수업 자료
-* 개념 설명 슬라이드: 없음
-* 연습 문제 목록/풀이 슬라이드: [/2020-Summer/ppt](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer/ppt)
+* [/2020-Summer/ppt](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer/ppt)
+  * 연습 문제 목록/풀이: 1~7일차
+  * 개념 설명: 8일차
