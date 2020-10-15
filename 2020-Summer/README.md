@@ -23,9 +23,8 @@
 
 ### 수업 자료
 
-* [/2020-Summer/ppt](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer/ppt)
-  * 연습 문제 목록/풀이: 1-7일차, 9, 10일차
-  * 개념 설명: 8일차
+* 연습 문제 목록/풀이: 1-7일차, 9, 10일차
+* 개념 설명: 8일차
 
 ### 기타 정보
 
