@@ -12,9 +12,9 @@
 
 ### 수업 자료
 
-* 개념 설명 슬라이드 : [/slide](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st/slide)
-* 연습 문제 풀이 : [/solution](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st/solution)
-* 연습 문제 정답 코드 : [/solution/src](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st/solution/src)
+* 개념 설명 슬라이드 : [./slide](./slide)
+* 연습 문제 풀이 : [./solution](./solution)
+* 연습 문제 정답 코드 : [./solution/src](./solution/src)
 * 연습 문제 모음 : https://www.acmicpc.net/workbook/view/8247
 
 ### 수업 일정

@@ -1,4 +1,15 @@
-# 연습 문제 정답 코드
+# 연습 문제 풀이
+
+* 1차시 문제 풀이 : [./01.pdf](https://github.com/justiceHui/Sunrin-SHARC/blob/master/2021-1st/solution/01.pdf)
+  * 1차시 문제 정답 코드 : [./src/01](./src/01)
+* 2차시 문제 풀이 : [./02.pdf](https://github.com/justiceHui/Sunrin-SHARC/blob/master/2021-1st/solution/02.pdf)
+  * 2차시 문제 정답 코드 : [./src/02](./src/02)
+* 3차시 문제 풀이 : [./03.pdf](https://github.com/justiceHui/Sunrin-SHARC/blob/master/2021-1st/solution/03.pdf)
+  * 3차시 문제 정답 코드 : [./src/03](./src/03)
+* 4차시 문제 풀이 : [./04.pdf](https://github.com/justiceHui/Sunrin-SHARC/blob/master/2021-1st/solution/04.pdf)
+  * 4차시 문제 정답 코드 : [./src/04](./src/04)
+* 5차시 문제 풀이 : [./05.pdf](https://github.com/justiceHui/Sunrin-SHARC/blob/master/2021-1st/solution/05.pdf)
+  * 5차시 문제 정답 코드 : [./src/05](./src/05)
 
 ### 문제 목록 (총 100문제)
 
