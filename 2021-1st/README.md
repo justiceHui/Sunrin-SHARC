@@ -27,7 +27,7 @@
 | 3차시 | 21.07.17 | Divide and Conquer<br>Segment Tree                           |
 | 5차시 | 21.07.24 | Greedy                                                       |
 
-### 추천 자료
+### 참고 자료
 
 * 21.06.12
   * (Time Complexity) https://blog.naver.com/kks227/220769859177
