@@ -5,8 +5,9 @@
 * [2020-2nd](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd) : 2020년 2학기 동아리 수업(정보 올림피아드 대비 문제 풀이)
 * [2021-1st](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st) : 2021년 6/7월 수업(기초 알고리즘 + 문제 풀이)
 * [2021-2nd](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd) : 2021년 2학기 수업 (중급 알고리즘 + 문제 풀이)
+* [2022-2nd](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2022-2nd) : 2022년 2학기 수업 (수준별 문제 풀이)
 
-### 슬라이드 바로가기
+### 개념 설명 슬라이드 바로가기
 
 | 개념                                                  | 슬라이드 바로가기                                            |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
